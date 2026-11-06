@@ -1,0 +1,3 @@
+condition,fraction,graine,epoques_max,AUC_valid,AUC_test,AUC_1re_test,AUC_rep_test,ACC_test,epoques,minutes
+aucun,0.01,0,200,0.7194,0.7221,0.7517,0.711,0.8265,64,6.3
+expert_c100,0.01,0,200,0.7114,0.7112,0.7143,0.7003,0.823,58,6.4

@@ -1,0 +1,31 @@
+scenario,fraction,effet,comparaison,ecart_moyen,graines_positives,p,p_holm,significatif_holm_5%
+S1,0.2,couverture,expert_c100 − expert_c25,0.0064,5/5,0.0001,0.0021,True
+S1,0.2,justesse,expert_c100 − theme_faux_c100,0.004,5/5,0.0002,0.0053,True
+S1,0.2,proximité,theme_faux_c100 − hors_theme_faux_c100,0.0022,5/5,0.0007,0.0163,True
+S1,0.2,sens des flèches,expert_c100 − inverse_c100,0.0032,5/5,0.0005,0.0132,True
+S1,0.2,graphe appris vs expert,appris_sans_prior − expert_c100,0.0001,2/5,0.6213,1.0,False
+S1,0.05,couverture,expert_c100 − expert_c25,0.0098,5/5,0.0006,0.0144,True
+S1,0.05,justesse,expert_c100 − theme_faux_c100,0.0027,5/5,0.0058,0.1164,False
+S1,0.05,proximité,theme_faux_c100 − hors_theme_faux_c100,0.0025,5/5,0.0121,0.1943,False
+S1,0.05,sens des flèches,expert_c100 − inverse_c100,0.0019,5/5,0.0038,0.0788,False
+S1,0.05,graphe appris vs expert,appris_sans_prior − expert_c100,-0.0032,0/5,0.0021,0.0469,True
+S2,0.2,couverture,expert_c100 − expert_c25,0.0025,5/5,0.0007,0.0163,True
+S2,0.2,justesse,expert_c100 − theme_faux_c100,-0.0002,2/5,0.5162,1.0,False
+S2,0.2,proximité,theme_faux_c100 − hors_theme_faux_c100,0.0014,5/5,0.0002,0.0059,True
+S2,0.2,sens des flèches,expert_c100 − inverse_c100,0.0001,2/5,0.6028,1.0,False
+S2,0.2,graphe appris vs expert,appris_sans_prior − expert_c100,0.0046,5/5,0.0,0.0001,True
+S2,0.05,couverture,expert_c100 − expert_c25,0.0044,5/5,0.0093,0.1665,False
+S2,0.05,justesse,expert_c100 − theme_faux_c100,-0.0006,1/5,0.1624,1.0,False
+S2,0.05,proximité,theme_faux_c100 − hors_theme_faux_c100,0.0016,5/5,0.0104,0.1764,False
+S2,0.05,sens des flèches,expert_c100 − inverse_c100,-0.0002,1/5,0.3572,1.0,False
+S2,0.05,graphe appris vs expert,appris_sans_prior − expert_c100,0.001,4/5,0.333,1.0,False
+S3,0.2,couverture,expert_c100 − expert_c25,0.0016,5/5,0.0073,0.1389,False
+S3,0.2,justesse,expert_c100 − theme_faux_c100,0.0003,3/5,0.1363,1.0,False
+S3,0.2,proximité,theme_faux_c100 − hors_theme_faux_c100,-0.0001,2/5,0.6392,1.0,False
+S3,0.2,sens des flèches,expert_c100 − inverse_c100,-0.0004,2/5,0.3517,1.0,False
+S3,0.2,graphe appris vs expert,appris_sans_prior − expert_c100,-0.0001,2/5,0.6957,1.0,False
+S3,0.05,couverture,expert_c100 − expert_c25,0.0024,5/5,0.0175,0.2619,False
+S3,0.05,justesse,expert_c100 − theme_faux_c100,-0.0002,1/5,0.6294,1.0,False
+S3,0.05,proximité,theme_faux_c100 − hors_theme_faux_c100,-0.0004,3/5,0.5029,1.0,False
+S3,0.05,sens des flèches,expert_c100 − inverse_c100,-0.001,1/5,0.114,1.0,False
+S3,0.05,graphe appris vs expert,appris_sans_prior − expert_c100,-0.0011,0/5,0.0425,0.5949,False

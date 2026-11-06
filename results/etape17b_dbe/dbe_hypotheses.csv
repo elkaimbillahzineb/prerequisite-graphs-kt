@@ -1,0 +1,17 @@
+modele,fraction,hypothese,ecart_moyen,graines_positives,p,p_holm,significatif_holm_5%
+PrereqKT,0.2,H1 couverture : expert_c100 − expert_c25,-0.0,5/10,0.9438,1.0,False
+PrereqKT,0.2,H2 justesse : expert_c100 − theme_faux_c100,-0.001,2/10,0.0509,0.4022,False
+PrereqKT,0.2,H3 proximité : theme_faux_c100 − hors_theme_faux_c100,-0.0001,4/10,0.6356,1.0,False
+PrereqKT,0.2,H4 graphe faux vs aucun : hors_theme_faux_c100 − aucun,0.0018,9/10,0.0004,0.0055,True
+PrereqKT,0.05,H1 couverture : expert_c100 − expert_c25,-0.0024,2/10,0.0844,0.4219,False
+PrereqKT,0.05,H2 justesse : expert_c100 − theme_faux_c100,-0.003,2/10,0.0132,0.1316,False
+PrereqKT,0.05,H3 proximité : theme_faux_c100 − hors_theme_faux_c100,-0.0019,3/10,0.0699,0.4195,False
+PrereqKT,0.05,H4 graphe faux vs aucun : hors_theme_faux_c100 − aucun,0.0028,9/10,0.0008,0.01,True
+GKT,0.2,H1 couverture : expert_c100 − expert_c25,-0.0023,1/10,0.0105,0.1153,False
+GKT,0.2,H2 justesse : expert_c100 − theme_faux_c100,-0.002,2/10,0.0503,0.4022,False
+GKT,0.2,H3 proximité : theme_faux_c100 − hors_theme_faux_c100,0.0201,10/10,0.0,0.0,True
+GKT,0.2,H4 graphe faux vs aucun : hors_theme_faux_c100 − aucun,-0.0254,0/10,0.0,0.0,True
+GKT,0.05,H1 couverture : expert_c100 − expert_c25,0.0316,5/10,0.1639,0.4918,False
+GKT,0.05,H2 justesse : expert_c100 − theme_faux_c100,0.0564,7/10,0.1172,0.4687,False
+GKT,0.05,H3 proximité : theme_faux_c100 − hors_theme_faux_c100,0.0595,9/10,0.0192,0.1724,False
+GKT,0.05,H4 graphe faux vs aucun : hors_theme_faux_c100 − aucun,-0.2292,0/10,0.0,0.0001,True

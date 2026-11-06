@@ -1,0 +1,11 @@
+{
+ "questions": 212,
+ "etudiants_gardes": 1140,
+ "reponses": 161549,
+ "fleches_expertes_entre_questions": 1368,
+ "symetrique": true,
+ "questions_avec_voisins_%": 96.7,
+ "quiz_distincts": 10,
+ "questions_sans_quiz": 0,
+ "fleches_expertes_dans_le_meme_quiz_%": 50.0
+}

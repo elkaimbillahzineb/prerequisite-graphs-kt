@@ -1,0 +1,7 @@
+fraction,facteur,F,p,eta2_partiel
+0.2,couverture,7.01,0.0016,0.163
+0.2,source,3.83,0.0262,0.096
+0.2,couverture:source,1.94,0.1129,0.097
+0.05,couverture,1.18,0.3133,0.032
+0.05,source,19.41,0.0,0.35
+0.05,couverture:source,2.51,0.0493,0.122

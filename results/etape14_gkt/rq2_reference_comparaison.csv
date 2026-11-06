@@ -1,0 +1,13 @@
+fraction,modele,AUC_1re,graines
+0.05,difficulté seule (toutes tentatives),0.7413,
+0.05,difficulté seule (1res tentatives),0.7655,
+0.05,GKT aucun,0.7703,10.0
+0.05,GKT expert_c100,0.7602,10.0
+0.05,PrereqKT aucun,0.7637,10.0
+0.05,PrereqKT expert_c100,0.7774,10.0
+0.01,difficulté seule (toutes tentatives),0.7143,
+0.01,difficulté seule (1res tentatives),0.7283,
+0.01,GKT aucun,0.7434,10.0
+0.01,GKT expert_c100,0.7038,10.0
+0.01,PrereqKT aucun,0.7012,10.0
+0.01,PrereqKT expert_c100,0.7283,10.0

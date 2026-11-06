@@ -1,0 +1,3 @@
+LLM,AUC_prerequis_directs,AUC_directs_ou_indirects,precision_top_E*_%,precision_elargie_top_E*_%,inversees_top_E*_%,part_p>=0.5_%,part_p>=0.999_%,couverture_1res_top_E*_%,part_fleches_top10_sources_%,gini_degre_sortant
+Qwen2.5-7B,0.6951,0.6696,11.2,44.0,7.7,31.5,5.5,24.2,22.6,0.866
+Llama-3.1-8B,0.644,0.6267,8.8,32.2,10.2,41.6,0.0,21.0,19.1,0.822

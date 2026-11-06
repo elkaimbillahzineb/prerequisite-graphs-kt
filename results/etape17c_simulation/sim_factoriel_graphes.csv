@@ -1,0 +1,10 @@
+couverture,source,fleches,manquantes,meme_theme_%,prerequis_vrais_%,couverture_1res_%
+0.25,expert,50.4,0.0,82.7,100.0,25.1
+0.25,theme_faux,50.4,0.0,100.0,0.0,25.1
+0.25,hors_theme_faux,50.4,0.0,0.0,0.0,25.1
+0.5,expert,100.5,0.0,82.8,100.0,50.0
+0.5,theme_faux,100.5,0.0,100.0,0.0,50.0
+0.5,hors_theme_faux,100.5,0.0,0.0,0.0,50.0
+1.0,expert,201.0,0.0,82.6,100.0,99.2
+1.0,theme_faux,201.0,0.0,100.0,0.0,99.2
+1.0,hors_theme_faux,201.0,0.0,0.0,0.0,99.2

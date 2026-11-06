@@ -1,0 +1,9 @@
+fraction,condition,AUC_1re_test,AUC_test
+0.05,appris_prior_llm,0.7797,0.784
+0.05,appris_sans_prior,0.7799,0.7827
+0.05,aucun,0.765,0.7782
+0.05,expert,0.7773,0.7821
+1.0,appris_prior_llm,0.8105,0.8032
+1.0,appris_sans_prior,0.8104,0.803
+1.0,aucun,0.8087,0.8024
+1.0,expert,0.8096,0.8027

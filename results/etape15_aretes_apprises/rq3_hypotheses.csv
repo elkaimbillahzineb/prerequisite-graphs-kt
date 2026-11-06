@@ -1,0 +1,9 @@
+fraction,hypothese,ecart_moyen,gagne,p,p_holm,confirmee_holm_5%
+1.0,"H5 signal : AUC(sans_prior) > 0,5",0.0382,5/5,0.0005,0.0043,True
+1.0,H6 mieux que l'ordre de passage,-0.2648,0/5,1.0,1.0,False
+1.0,H7 les données corrigent le LLM,-0.0298,0/5,1.0,1.0,False
+1.0,"H8 au-delà de l'ordre imposé : AUC(sans_prior, ordre variable) > 0,5",0.0209,4/5,0.0575,0.2876,False
+0.05,"H5 signal : AUC(sans_prior) > 0,5",0.0357,5/5,0.0007,0.0049,True
+0.05,H6 mieux que l'ordre de passage,-0.1786,0/5,1.0,1.0,False
+0.05,H7 les données corrigent le LLM,-0.0139,0/5,0.9998,1.0,False
+0.05,"H8 au-delà de l'ordre imposé : AUC(sans_prior, ordre variable) > 0,5",0.0217,5/5,0.0235,0.1409,False
