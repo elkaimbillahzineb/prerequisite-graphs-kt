@@ -1,0 +1,12 @@
+# raw and prepared datasets are not redistributed
+junyi2015/
+junyi_prepare/
+dbe_kt22/
+dbe_prepare/
+*.npy
+.ipynb_checkpoints/
+__pycache__/
+*.aux
+*.log
+*.bbl
+*.blg
